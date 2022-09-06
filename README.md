@@ -1,0 +1,1 @@
+In this project I will demonstrate the different HTML skills that I have learned thus far as a part of the Odin Project - Foundations section.
