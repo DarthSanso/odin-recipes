@@ -1,3 +1,13 @@
-* {
+*{
+    background-color: black;
+    color: rgb(168, 252, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    color: white;
+}
+
+h1, h2, h3, p, #center {
     text-align: center;
 }
